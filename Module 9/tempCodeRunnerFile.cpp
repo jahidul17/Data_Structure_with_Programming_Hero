@@ -1,0 +1,2 @@
+
+        delete_tail(tail);
